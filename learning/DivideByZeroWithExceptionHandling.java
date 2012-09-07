@@ -46,7 +46,7 @@
                   "Zero is an invalid denominator. Please try again.\n" );   
               } // end catch*/   
               System.out.println(                                           
-                      "Prog cont here!!!!!!!!!!!" );
+                      "Prog cont here!" );
          } while ( continueLoop ); // end do...while                         
       } // end main
    } // end class DivideByZeroWithExceptionHandling
