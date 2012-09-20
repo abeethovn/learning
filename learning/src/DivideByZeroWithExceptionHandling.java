@@ -1,6 +1,6 @@
     // Fig.   . : DivideByZeroWithExceptionHandling.java
      // Handling ArithmeticExceptions and InputMismatchExceptions.
-     import java.util.InputMismatchException;
+ /*    import java.util.InputMismatchException;
      import java.util.Scanner;
   
      public class DivideByZeroWithExceptionHandling
@@ -44,10 +44,10 @@
                  System.err.printf( "\nException: %s\n", arithmeticException );
                  System.out.println(                                           
                   "Zero is an invalid denominator. Please try again.\n" );   
-              } // end catch*/   
+              } // end catch   
               System.out.println(                                           
                       "Prog cont here!!!!!!!!!!!" );
          } while ( continueLoop ); // end do...while                         
       } // end main
-   } // end class DivideByZeroWithExceptionHandling
+   } // end class DivideByZeroWithExceptionHandling*/
 
