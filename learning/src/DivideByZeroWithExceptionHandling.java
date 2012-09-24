@@ -33,9 +33,9 @@ make some changes to branch one (master branch) and then commit and push
 
 branch two created 
 
-now let's make some changes to branch two
 
-2.0000000.2.1111111
+now I am changing this whole thing again.
+must have a conflict
 
 
 
