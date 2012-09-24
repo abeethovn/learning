@@ -26,16 +26,13 @@ changes in the branch one
               {                                                                
                  System.err.printf( "\nException: %s\n",                       
                     inputMismatchException );                                  
-                 scanner.nextLine(); // discard input so user can try again    
-                 System.out.println(                                           
-                    "You must enter integers. Please try again.\n" );          
-              } // end catch                                                   
-              catch ( ArithmeticException arithmeticException )                
-              {                                                                
-                 System.err.printf( "\nException: %s\n", arithmeticException );
-                 System.out.println(                                           
-                  "Zero is an invalid denominator. Please try again.\n" );   
-              } // end catch   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+branch two created 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
               System.out.println(                                           
                       "Prog cont here!!!!!!!!!!!" );
          } while ( continueLoop ); // end do...while                         
