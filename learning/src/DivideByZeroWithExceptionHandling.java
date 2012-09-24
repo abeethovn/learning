@@ -19,7 +19,9 @@
   
 ---------------------------------------------------------------------------------
 changes in the branch one
+                             
                                         
+make some changes to branch one (master branch) and then commit and push
                                                   
 ---------------------------------------------------------------------------------
               catch ( InputMismatchException inputMismatchException )          
