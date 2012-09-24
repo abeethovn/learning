@@ -21,7 +21,7 @@
 changes in the branch one
                              
                                         
-make some changes to branch one (master branch) and then commit and push
+make some changes to branch 1 (master branch) and then commit and push
 
                                                   
 ---------------------------------------------------------------------------------
