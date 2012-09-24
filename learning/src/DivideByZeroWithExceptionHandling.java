@@ -17,20 +17,11 @@
            Scanner scanner = new Scanner( System.in ); // scanner for input
            boolean continueLoop = true; // determines if more input is needed
   
-           do                                                                  
-           {                                                                   
-              try // read two numbers and calculate quotient                   
-              {                                                                
-                 System.out.print( "Please enter an integer numerator: " );    
-                 int numerator = scanner.nextInt();                            
-                 System.out.print( "Please enter an integer denominator: " );  
-                 int denominator = scanner.nextInt();                          
-                                                                               
-                 int result = quotient( numerator, denominator );              
-                 System.out.printf( "\nResult: %d / %d = %d\n", numerator,     
-                    denominator, result );                                     
-                 continueLoop = false; // input successful; end looping        
-              } // end try                                                     
+---------------------------------------------------------------------------------
+changes in the branch one
+                                        
+                                                  
+---------------------------------------------------------------------------------
               catch ( InputMismatchException inputMismatchException )          
               {                                                                
                  System.err.printf( "\nException: %s\n",                       
