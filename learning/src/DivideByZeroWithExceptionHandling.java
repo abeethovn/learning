@@ -28,16 +28,16 @@ make some changes to branch one (master branch) and then commit and push
               {                                                                
                  System.err.printf( "\nException: %s\n",                       
                     inputMismatchException );                                  
-                 scanner.nextLine(); // discard input so user can try again    
-                 System.out.println(                                           
-                    "You must enter integers. Please try again.\n" );          
-              } // end catch                                                   
-              catch ( ArithmeticException arithmeticException )                
-              {                                                                
-                 System.err.printf( "\nException: %s\n", arithmeticException );
-                 System.out.println(                                           
-                  "Zero is an invalid denominator. Please try again.\n" );   
-              } // end catch   
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+branch two created 
+
+now let's make some changes to branch two
+22222222222222222222222222222222222222222222
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
               System.out.println(                                           
                       "Prog cont here!!!!!!!!!!!" );
          } while ( continueLoop ); // end do...while                         
