@@ -21,7 +21,12 @@
 changes in the branch one
                              
                                         
+
 make some changes to branch one (master branch) and then commit and push
+add changes after discovering the conflict
+make some changes to branch 1 (master branch) and then commit and push
+33
+
 
                                                   
 ---------------------------------------------------------------------------------
