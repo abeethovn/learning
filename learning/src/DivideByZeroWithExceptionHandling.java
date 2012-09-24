@@ -18,17 +18,7 @@
            boolean continueLoop = true; // determines if more input is needed
   
 ---------------------------------------------------------------------------------
-changes in the branch one
-                             
-                                        
-
-make some changes to branch one (master branch) and then commit and push
-add changes after discovering the conflict
-make some changes to branch 1 (master branch) and then commit and push
-33
-
-
-                                                  
+changes in the branch one                                       
 ---------------------------------------------------------------------------------
               catch ( InputMismatchException inputMismatchException )          
               {                                                                
@@ -36,14 +26,7 @@ make some changes to branch 1 (master branch) and then commit and push
                     inputMismatchException );                                  
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-
 branch two created 
-
-
-now I am changing this whole thing again.
-must have a conflict
-
-
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
               System.out.println(                                           
