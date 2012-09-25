@@ -18,7 +18,8 @@
            boolean continueLoop = true; // determines if more input is needed
   
 ---------------------------------------------------------------------------------
-changes in the branch one                                       
+changes in the branch one    
+make some changes and see if the remote branch will change ...                                   
 ---------------------------------------------------------------------------------
               catch ( InputMismatchException inputMismatchException )          
               {                                                                
