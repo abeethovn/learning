@@ -1,7 +1,4 @@
 /*
-  
-
-=======
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 change at 
 1128
@@ -12,11 +9,7 @@ change at
 1128
 1128
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-              catch ( InputMismatchException inputMismatchException )          
-              {                                                                
-                 System.err.printf( "\nException: %s\n",                       
-                    inputMismatchException );                                  
+clean up                    
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 changed at 
@@ -25,10 +18,5 @@ changed at
 303030303030303003
 303030303030
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-              System.out.println(                                           
-                      "Prog cont here!!!!!!!!!!!" );
-         } while ( continueLoop ); // end do...while                         
-      } // end main
-   } // end class DivideByZeroWithExceptionHandling*/
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 
