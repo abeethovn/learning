@@ -1,12 +1,5 @@
 /*
- * 
- * testing
-  rebase
-  rebase
-  rebase
-  revase
-  rebase
-  rebase
+  
 
 =======
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -37,12 +30,5 @@ changed at
                       "Prog cont here!!!!!!!!!!!" );
          } while ( continueLoop ); // end do...while                         
       } // end main
-   } // end class DivideByZeroWithExceptionHandling
-   
-   *
-   *
-   *
-   *changes after rebase
-   *after rebase 
-   *after rebse*/
+   } // end class DivideByZeroWithExceptionHandling*/
 
